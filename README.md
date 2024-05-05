@@ -1,3 +1,19 @@
+Parking App
+This repository contains a Parking App developed using Next.js.
+
+Overview
+The Parking App facilitates efficient management of parking spaces, enabling users to find available spots, reserve parking slots, and navigate to designated locations. It offers convenience for both drivers and parking lot operators, enhancing the parking experience with real-time updates and seamless navigation.
+
+Features
+Find Parking: Users can search for available parking spaces based on location, proximity, and availability.
+Reserve Parking: The app allows users to reserve parking slots in advance, ensuring a guaranteed spot upon arrival.
+Navigation: Integrated navigation features guide users to their reserved parking spaces within the parking facility.
+Payment Integration: Support for payment integration enables users to make secure transactions for parking reservations.
+Real-time Updates: Users receive real-time updates on parking availability, ensuring accurate information at all times.
+User Profiles: Personalized user profiles enable users to manage their parking reservations, payment methods, and preferences.
+Copilot Kit: Utilize the Copilot Kit for streamlined development, leveraging AI-powered suggestions and code generation to enhance productivity and code quality.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
